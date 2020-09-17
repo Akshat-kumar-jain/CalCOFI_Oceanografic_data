@@ -1,5 +1,7 @@
 # CalCOFI_Oceanografic_data
-Data Science with Julia
+### ( Data Science with Julia )
+
+![](FlowChart_1.png)
 
 # 	Problem Statement
 ## Goal:
